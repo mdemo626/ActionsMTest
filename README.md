@@ -1,5 +1,6 @@
 # GitHub Actions Fundamentals
 Trainnee m626
+Trainee m626 trying skip ci
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
